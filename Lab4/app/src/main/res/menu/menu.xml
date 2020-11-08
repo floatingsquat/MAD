@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_launcher_back_foreground"
+        android:title="Back"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_launcher_forward_foreground"
+        android:title="Forward"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_launcher_home_foreground"
+        android:title="Home"
+        app:showAsAction="always" />
+</menu>
