@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308807303940",
+    "project_id": "muratyilmaz-90631",
+    "storage_bucket": "muratyilmaz-90631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308807303940:android:14a5128577bf7ca5fbc651",
+        "android_client_info": {
+          "package_name": "com.muratyilmaz.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308807303940-7vgo2gvlm2eqcrf4qp5qtt992dgalj94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwC-iHCak61jAz5eiTNEs3lpDVwOy5-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308807303940-7vgo2gvlm2eqcrf4qp5qtt992dgalj94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
